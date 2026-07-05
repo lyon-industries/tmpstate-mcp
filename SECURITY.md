@@ -38,4 +38,4 @@ The server requires no authentication and receives no ambient credentials from y
 
 ## Reporting
 
-Found a vulnerability? Email [security@tmpstate.dev](mailto:security@tmpstate.dev). Please include reproduction steps; we aim to respond within 72 hours.
+Found a vulnerability? Email [support@tmpstate.dev](mailto:support@tmpstate.dev) - reports are read by a human and answered. Please include reproduction steps.
