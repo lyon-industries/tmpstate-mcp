@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lyon-industries/.github/main/profile/lyon-industries-banner.svg" alt="Lyon Industries" width="100%">
+</p>
+
 # TmpState MCP
 
 TmpState (temp state) is a tokenless temporary JSON database. One curl creates a database; the URL is the only credential. No signup, no API keys. 24h free, $1 to keep for a week.
